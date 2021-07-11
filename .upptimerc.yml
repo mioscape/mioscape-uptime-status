@@ -45,7 +45,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mioscape.cf
   # baseUrl: /your-repo-name
-  favIcon: https://avatars.githubusercontent.com/u/43681888?v=4
+  favicon: https://avatars.githubusercontent.com/u/43681888?v=4
   logoUrl: https://avatars.githubusercontent.com/u/43681888?v=4
   name: mioscape.cf - Server Status
   introTitle: "Welcome to our **mioscape.cf** server status page."
