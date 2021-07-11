@@ -44,7 +44,7 @@ status-website:
   name: mioscape.cf - Server Status
   introTitle: "Welcome to our **mioscape.cf** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
-  theme: light
+  theme: dark
   navbar:
     - title: Profile
       href: https://mioscape.cf/
