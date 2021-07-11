@@ -33,6 +33,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 500
+  - name: Mioscape Server Status
+    url: https://status.mioscape.cf/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
