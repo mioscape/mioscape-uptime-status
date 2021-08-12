@@ -76,16 +76,16 @@
     "url": "https://vpn.mioscape.cf/",
     "icon": "https://favicons.githubusercontent.com/vpn.mioscape.cf",
     "slug": "mioscape-vpn-server",
-    "status": "up",
-    "uptime": "86.97%",
-    "uptimeDay": "22.55%",
-    "uptimeWeek": "48.43%",
-    "uptimeMonth": "86.17%",
-    "uptimeYear": "86.97%",
+    "status": "down",
+    "uptime": "90.59%",
+    "uptimeDay": "23.68%",
+    "uptimeWeek": "56.54%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "90.59%",
     "time": 500,
-    "timeDay": 562,
+    "timeDay": 569,
     "timeWeek": 499,
-    "timeMonth": 500,
+    "timeMonth": 501,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2021-08-12": 781,
@@ -94,8 +94,7 @@
       "2021-08-09": 616,
       "2021-08-08": 734,
       "2021-08-07": 772,
-      "2021-08-06": 476,
-      "2021-08-05": 1400
+      "2021-08-06": 198
     }
   },
   {
