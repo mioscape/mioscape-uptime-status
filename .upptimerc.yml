@@ -34,7 +34,7 @@ sites:
       - 200
       - 500
   - name: Mioscape VPN Server [OLD]
-    url: https://service.mioscape.my.id/
+    url: https://vpn.mioscape.cf/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -53,8 +53,8 @@ status-website:
   # baseUrl: /your-repo-name
   favicon: https://avatars.githubusercontent.com/u/43681888?v=4
   logoUrl: https://avatars.githubusercontent.com/u/43681888?v=4
-  name: mioscape.cf - Server Status
-  introTitle: "Welcome to our **mioscape.cf** server status page."
+  name: mioscape.my.id - Server Status
+  introTitle: "Welcome to our **mioscape.my.id** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   theme: dark
   navbar:
