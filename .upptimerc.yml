@@ -4,37 +4,43 @@ repo: mioscape-uptime-status # The name of this repository
 
 sites:
   - name: Mioscape Profile
-    url: https://mioscape.cf/
+    url: https://mioscape.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape Blog
-    url: https://blog.mioscape.cf/
+    url: https://blog.mioscape.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape Index
-    url: https://index.mioscape.cf/
+    url: https://index.mioscape.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape VPN Subscription
-    url: https://subscription.mioscape.cf/
+    url: https://subscription.mioscape.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape VPN Server
-    url: https://vpn.mioscape.cf/
+  - name: Mioscape VPN Server [NEW]
+    url: https://service.mioscape.my.id/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 500
+  - name: Mioscape VPN Server [OLD]
+    url: https://service.mioscape.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape Server Status
-    url: https://status.mioscape.cf/
+    url: https://status.mioscape.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -43,7 +49,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.mioscape.cf
+  cname: status.mioscape.my.id
   # baseUrl: /your-repo-name
   favicon: https://avatars.githubusercontent.com/u/43681888?v=4
   logoUrl: https://avatars.githubusercontent.com/u/43681888?v=4
@@ -53,11 +59,11 @@ status-website:
   theme: dark
   navbar:
     - title: Profile
-      href: https://mioscape.cf/
+      href: https://mioscape.my.id/
     - title: Blog
-      href: https://blog.mioscape.cf/
+      href: https://blog.mioscape.my.id/
     - title: Index
-      href: https://index.mioscape.cf/
+      href: https://index.mioscape.my.id/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Telegram
