@@ -27,14 +27,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape VPN Server [NEW]
+  - name: Mioscape VPN Server
     url: https://service.mioscape.my.id/
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 500
-  - name: Mioscape VPN Server [OLD]
-    url: https://vpn.mioscape.cf/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
