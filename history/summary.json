@@ -40,10 +40,10 @@
     "url": "https://index.mioscape.my.id/",
     "icon": "https://favicons.githubusercontent.com/index.mioscape.my.id",
     "slug": "mioscape-index",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
@@ -51,16 +51,18 @@
     "timeWeek": 156,
     "timeMonth": 179,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 1
+    }
   },
   {
     "name": "Mioscape VPN Subscription",
     "url": "https://subscription.mioscape.my.id/",
     "icon": "https://favicons.githubusercontent.com/subscription.mioscape.my.id",
     "slug": "mioscape-vpn-subscription",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 155,
     "timeMonth": 198,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 0
+    }
   },
   {
     "name": "Mioscape VPN Server",
@@ -77,15 +81,15 @@
     "icon": "https://favicons.githubusercontent.com/service.mioscape.my.id",
     "slug": "mioscape-vpn-server",
     "status": "down",
-    "uptime": "20.22%",
+    "uptime": "21.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "20.22%",
-    "uptimeYear": "20.22%",
+    "uptimeMonth": "21.24%",
+    "uptimeYear": "21.24%",
     "time": 502,
     "timeDay": 306,
     "timeWeek": 358,
-    "timeMonth": 495,
+    "timeMonth": 496,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2021-08-24": 1075,
