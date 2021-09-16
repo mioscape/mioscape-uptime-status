@@ -28,7 +28,7 @@ sites:
       - 200
       - 500
   - name: Mioscape VPN Server
-    url: https://service.mioscape.my.id/
+    url: https://server.mioscape.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
