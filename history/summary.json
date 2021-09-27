@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 226,
-    "timeWeek": 223,
-    "timeMonth": 192,
-    "timeYear": 345,
+    "time": 343,
+    "timeDay": 147,
+    "timeWeek": 210,
+    "timeMonth": 185,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 240,
+    "time": 286,
+    "timeDay": 154,
     "timeWeek": 184,
     "timeMonth": 178,
-    "timeYear": 287,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 221,
-    "timeDay": 297,
-    "timeWeek": 285,
-    "timeMonth": 258,
+    "timeDay": 285,
+    "timeWeek": 284,
+    "timeMonth": 260,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2021-09-01": 17
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 226,
-    "timeDay": 210,
-    "timeWeek": 263,
+    "time": 225,
+    "timeDay": 127,
+    "timeWeek": 232,
     "timeMonth": 170,
-    "timeYear": 226,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2021-09-01": 17
     }
@@ -81,15 +81,15 @@
     "icon": "https://favicons.githubusercontent.com/server.mioscape.my.id",
     "slug": "mioscape-vpn-server",
     "status": "down",
-    "uptime": "43.26%",
+    "uptime": "44.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "66.76%",
-    "uptimeYear": "43.26%",
+    "uptimeYear": "44.53%",
     "time": 506,
     "timeDay": 0,
-    "timeWeek": 934,
-    "timeMonth": 547,
+    "timeWeek": 940,
+    "timeMonth": 556,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2021-09-16": 1067,
@@ -135,9 +135,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 153,
-    "timeDay": 213,
-    "timeWeek": 133,
-    "timeMonth": 119,
+    "timeDay": 136,
+    "timeWeek": 144,
+    "timeMonth": 120,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2021-09-07": 26
