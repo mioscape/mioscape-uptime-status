@@ -4,37 +4,37 @@ repo: mioscape-uptime-status # The name of this repository
 
 sites:
   - name: Mioscape Profile
-    url: https://mioscape.my.id/
+    url: https://mioscape.me/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape Blog
-    url: https://blog.mioscape.my.id/
+    url: https://blog.mioscape.me/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape Index
-    url: https://index.mioscape.my.id/
+    url: https://index.mioscape.me/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape VPN Subscription
-    url: https://subscription.mioscape.my.id/
+    url: https://subscription.mioscape.me/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape VPN Server
-    url: https://server.mioscape.my.id/
+    url: https://server.mioscape.me/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape Server Status
-    url: https://status.mioscape.my.id/
+    url: https://status.mioscape.me/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -43,7 +43,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.mioscape.my.id
+  cname: status.mioscape.me
   # baseUrl: /your-repo-name
   favicon: https://avatars.githubusercontent.com/u/43681888?v=4
   logoUrl: https://avatars.githubusercontent.com/u/43681888?v=4
@@ -53,11 +53,11 @@ status-website:
   theme: dark
   navbar:
     - title: Profile
-      href: https://mioscape.my.id/
+      href: https://mioscape.me/
     - title: Blog
-      href: https://blog.mioscape.my.id/
+      href: https://blog.mioscape.me/
     - title: Index
-      href: https://index.mioscape.my.id/
+      href: https://index.mioscape.me/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Telegram
