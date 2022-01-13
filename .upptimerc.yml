@@ -48,7 +48,7 @@ status-website:
   favicon: https://avatars.githubusercontent.com/u/43681888?v=4
   logoUrl: https://avatars.githubusercontent.com/u/43681888?v=4
   name: mioscape.me - Server Status
-  introTitle: "Welcome to our **mioscape.my.me** server status page."
+  introTitle: "Welcome to our **mioscape.me** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   theme: dark
   navbar:
