@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 136,
-    "timeDay": 185,
-    "timeWeek": 182,
-    "timeMonth": 153,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 125,
+    "timeWeek": 167,
+    "timeMonth": 150,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2022-02-28": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 159,
-    "timeDay": 196,
-    "timeWeek": 105,
-    "timeMonth": 126,
+    "timeDay": 133,
+    "timeWeek": 101,
+    "timeMonth": 124,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2022-02-28": 24,
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.59%",
     "time": 131,
-    "timeDay": 204,
-    "timeWeek": 131,
-    "timeMonth": 131,
+    "timeDay": 142,
+    "timeWeek": 125,
+    "timeMonth": 130,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2022-02-28": 24,
@@ -63,5 +63,23 @@
       "2021-10-05": 1304,
       "2021-09-07": 26
     }
+  },
+  {
+    "name": "MioGang ShitBin",
+    "url": "https://shitbin.miogang.tech/",
+    "icon": "https://favicons.githubusercontent.com/shitbin.miogang.tech",
+    "slug": "mio-gang-shit-bin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 355,
+    "timeDay": 355,
+    "timeWeek": 355,
+    "timeMonth": 355,
+    "timeYear": 355,
+    "dailyMinutesDown": {}
   }
 ]
