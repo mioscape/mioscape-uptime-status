@@ -42,10 +42,6 @@ status-website:
   navbar:
     - title: Profile
       href: https://mioscape.me/
-    - title: Blog
-      href: https://blog.mioscape.me/
-    - title: Index
-      href: https://index.mioscape.me/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Telegram
