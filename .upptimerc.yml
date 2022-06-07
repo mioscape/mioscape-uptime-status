@@ -4,7 +4,7 @@ repo: mioscape-uptime-status # The name of this repository
 
 sites:
   - name: Mioscape Profile / Blog
-    url: https://mioscape.me/
+    url: https://ihyafauzi.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
