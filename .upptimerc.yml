@@ -27,6 +27,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 500
+  - name: Mioscape DNS
+    url: f71c9b.dns.nextdns.io
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -41,7 +47,7 @@ status-website:
   theme: dark
   navbar:
     - title: Profile
-      href: https://mioscape.me/
+      href: https://ihyafauzi.my.id/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Telegram
