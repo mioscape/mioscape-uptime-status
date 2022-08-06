@@ -1,7 +1,7 @@
 url: f71c9b.dns.nextdns.io
-status: down
+status: degraded
 code: 400
-responseTime: 384
-lastUpdated: 2022-08-05T23:16:08.823Z
+responseTime: 6664
+lastUpdated: 2022-08-06T09:21:04.275Z
 startTime: Thu Jul 14 2022 20:06:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
