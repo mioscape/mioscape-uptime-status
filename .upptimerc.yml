@@ -43,7 +43,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.mioscape.me
+  cname: status.ihyafauzi.my.id
   # baseUrl: /your-repo-name
   favicon: https://avatars.githubusercontent.com/u/43681888?v=4
   logoUrl: https://avatars.githubusercontent.com/u/43681888?v=4
