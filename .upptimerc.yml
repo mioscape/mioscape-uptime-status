@@ -16,7 +16,7 @@ sites:
       - 200
       - 500
   - name: Mioscape Server Status
-    url: https://status.mioscape.me/
+    url: https://status.ihyafauzi.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
