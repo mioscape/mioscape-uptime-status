@@ -3,8 +3,14 @@ owner: mioscape # Your GitHub organization or username, where this repository li
 repo: mioscape-uptime-status # The name of this repository
 
 sites:
-  - name: Mioscape Profile / Blog
+  - name: Mioscape Homepage
     url: https://ihyafauzi.my.id/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 500
+  - name: Mioscape Blog
+    url: https://blog.ihyafauzi.my.id/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -30,9 +36,6 @@ sites:
   - name: Mioscape DNS
     url: f71c9b.dns.nextdns.io
     maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 500
   - name: MioGang Drive
     url: https://drive.ihyafauzi.my.id/
     maxResponseTime: 5000
@@ -52,8 +55,10 @@ status-website:
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   theme: dark
   navbar:
-    - title: Profile
+    - title: Homepage
       href: https://ihyafauzi.my.id/
+    - title: Blog
+      href: https://blog.ihyafauzi.my.id/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Telegram
