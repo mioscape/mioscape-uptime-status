@@ -34,7 +34,7 @@ sites:
       - 200
       - 500
   - name: Mioscape DNS
-    url: https://f71c9b.dns.nextdns.io/
+    url: https://dns.nextdns.io/4acb16/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
