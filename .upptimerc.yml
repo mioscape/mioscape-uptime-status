@@ -4,43 +4,43 @@ repo: mioscape-uptime-status # The name of this repository
 
 sites:
   - name: Mioscape Homepage
-    url: https://ihyafauzi.my.id/
+    url: https://ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape Blog
-    url: https://blog.ihyafauzi.my.id/
+    url: https://blog.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape VPN Subscription
-    url: https://subscription.mioscape.me/
+    url: https://subscription.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
   - name: Mioscape Server Status
-    url: https://status.ihyafauzi.my.id/
+    url: https://status.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: MioGang ShitBin
-    url: https://shitbin.miogang.tech/
+  - name: Mioscape ShitBin
+    url: https://shitbin.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape DNS
-    url: https://dns.nextdns.io/4acb16/
+  - name: Mioscape Drive
+    url: https://drive.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: MioGang Drive
-    url: https://drive.ihyafauzi.my.id/
+  - name: Mioscape TikTok Downloader
+    url: https://tdl.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -49,19 +49,19 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ihyafauzi.my.id
+  cname: status.ihya.dev
   # baseUrl: /your-repo-name
   favicon: https://avatars.githubusercontent.com/u/43681888?v=4
   logoUrl: https://avatars.githubusercontent.com/u/43681888?v=4
-  name: ihyafauzi.my.id - Server Status
-  introTitle: "Welcome to our **ihyafauzi.my.id** server status page."
+  name: ihya.dev - Server Status
+  introTitle: "Welcome to our **ihya.dev** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   theme: dark
   navbar:
     - title: Homepage
-      href: https://ihyafauzi.my.id/
+      href: https://ihya.dev/
     - title: Blog
-      href: https://blog.ihyafauzi.my.id/
+      href: https://blog.ihya.dev/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Telegram
