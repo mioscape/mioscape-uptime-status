@@ -33,7 +33,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape Drive
+  - name: Mioscape Drive (GDrive)
     url: https://drive.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
@@ -41,6 +41,12 @@ sites:
       - 500
   - name: Mioscape TikTok Downloader
     url: https://tdl.ihya.dev/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 500
+  - name: Mioscape Drive (OneDrive)
+    url: https://files.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
