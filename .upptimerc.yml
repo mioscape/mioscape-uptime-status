@@ -62,7 +62,7 @@ status-website:
   name: ihya.dev - Server Status
   introTitle: "Welcome to our **ihya.dev** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
-  theme: dark
+  theme: night
   navbar:
     - title: Homepage
       href: https://ihya.dev/
@@ -72,6 +72,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Telegram
       href: https://t.me/mioscape
+      
+i18n:
+  footer: This page is [open source]($REPO), powered by [Mioscape](https://ihya.dev)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
