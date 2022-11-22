@@ -33,8 +33,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape Drive (GDrive)
-    url: https://drive.ihya.dev/
+  - name: Mioscape Music
+    url: https://music.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
