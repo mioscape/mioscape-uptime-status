@@ -51,6 +51,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 500
+  - name: Hyperpipe on ihya.dev
+    url: https://beta.music.ihya.dev/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
