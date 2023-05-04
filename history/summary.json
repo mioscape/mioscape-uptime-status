@@ -33,7 +33,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.ihya.dev.ico",
     "slug": "mioscape-blog",
     "status": "up",
-    "uptime": "95.37%",
+    "uptime": "95.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
@@ -193,9 +193,9 @@
     "url": "https://beta.music.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/beta.music.ihya.dev.ico",
     "slug": "hyperpipe-on-ihya-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -204,6 +204,8 @@
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   }
 ]
