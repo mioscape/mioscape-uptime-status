@@ -1,7 +1,7 @@
 url: https://status.ihya.dev/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-01T08:35:11.714Z
+status: up
+code: 200
+responseTime: 63
+lastUpdated: 2023-10-01T14:52:19.779Z
 startTime: 2021-07-11T09:10:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
