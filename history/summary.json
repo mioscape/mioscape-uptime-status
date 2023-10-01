@@ -4,9 +4,9 @@
     "url": "https://ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/ihya.dev.ico",
     "slug": "mioscape-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 147,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2022-12-31": 34,
       "2022-10-16": 169
     }
@@ -25,18 +26,19 @@
     "url": "https://blog.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ihya.dev.ico",
     "slug": "mioscape-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "97.09%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 248,
     "timeDay": 181,
     "timeWeek": 231,
-    "timeMonth": 202,
+    "timeMonth": 205,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2023-08-09": 18,
       "2023-07-06": 18,
       "2023-04-21": 16,
@@ -50,9 +52,9 @@
     "url": "https://subscription.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/subscription.ihya.dev.ico",
     "slug": "mioscape-vpn-subscription",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -62,6 +64,7 @@
     "timeMonth": 142,
     "timeYear": 153,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2022-10-16": 169
     }
   },
@@ -70,9 +73,9 @@
     "url": "https://status.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/status.ihya.dev.ico",
     "slug": "mioscape-server-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -82,6 +85,7 @@
     "timeMonth": 141,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2023-05-04": 38,
       "2022-10-16": 169
     }
@@ -91,9 +95,9 @@
     "url": "https://shitbin.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/shitbin.ihya.dev.ico",
     "slug": "mioscape-shit-bin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -103,6 +107,7 @@
     "timeMonth": 262,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2022-10-16": 169
     }
   },
@@ -111,9 +116,9 @@
     "url": "https://music.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/music.ihya.dev.ico",
     "slug": "mioscape-music",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -122,16 +127,18 @@
     "timeWeek": 159,
     "timeMonth": 140,
     "timeYear": 493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-01": 0
+    }
   },
   {
     "name": "Mioscape Drive",
     "url": "https://drive.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.ihya.dev.ico",
     "slug": "mioscape-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -140,6 +147,8 @@
     "timeWeek": 669,
     "timeMonth": 638,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-01": 0
+    }
   }
 ]
