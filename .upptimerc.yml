@@ -3,43 +3,43 @@ owner: mioscape # Your GitHub organization or username, where this repository li
 repo: mioscape-uptime-status # The name of this repository
 
 sites:
-  - name: Mioscape Homepage
+  - name: Main Homepage
     url: https://ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape Blog
+  - name: Blog
     url: https://blog.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape VPN Subscription
+  - name: VPN Subscription
     url: https://subscription.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape Server Status
+  - name: Server Status
     url: https://status.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape ShitBin
+  - name: ShitBin
     url: https://shitbin.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape Music
+  - name: Music
     url: https://music.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 500
-  - name: Mioscape Cloud
+  - name: Cloud
     url: https://cloud.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
