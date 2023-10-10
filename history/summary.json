@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 203,
-    "timeWeek": 154,
+    "timeWeek": 143,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://blog.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ihya.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 110,
-    "timeWeek": 162,
+    "timeDay": 136,
+    "timeWeek": 170,
     "timeMonth": 162,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   },
   {
     "name": "VPN Subscription",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 275,
-    "timeWeek": 149,
+    "timeWeek": 142,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 209,
-    "timeWeek": 144,
+    "timeWeek": 139,
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 612,
     "timeDay": 342,
-    "timeWeek": 612,
+    "timeWeek": 247,
     "timeMonth": 612,
     "timeYear": 612,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 1650,
     "timeDay": 1224,
-    "timeWeek": 1650,
+    "timeWeek": 1709,
     "timeMonth": 1650,
     "timeYear": 1650,
     "dailyMinutesDown": {}
