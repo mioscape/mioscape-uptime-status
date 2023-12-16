@@ -125,17 +125,19 @@
     "url": "https://cloud.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.ihya.dev.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1739,
-    "timeDay": 1541,
-    "timeWeek": 1350,
-    "timeMonth": 1428,
-    "timeYear": 1739,
-    "dailyMinutesDown": {}
+    "time": 1727,
+    "timeDay": 1163,
+    "timeWeek": 1279,
+    "timeMonth": 1406,
+    "timeYear": 1727,
+    "dailyMinutesDown": {
+      "2023-12-16": 0
+    }
   }
 ]
