@@ -1,7 +1,7 @@
 url: https://cloud.ihya.dev/
-status: up
-code: 200
-responseTime: 1091
-lastUpdated: 2024-01-25T23:14:56.826Z
+status: down
+code: 521
+responseTime: 3473
+lastUpdated: 2024-01-26T16:45:42.087Z
 startTime: 2023-10-03T04:34:33.680Z
 generator: Upptime <https://github.com/upptime/upptime>
