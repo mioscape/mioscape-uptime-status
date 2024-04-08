@@ -39,8 +39,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 500
-  - name: Cloud
-    url: https://cloud.ihya.dev/
+  - name: Drive
+    url: https://drive.ihya.dev/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
