@@ -1,7 +1,7 @@
 url: https://blog.ihya.dev/
-status: up
-code: 200
-responseTime: 136
-lastUpdated: 2024-04-27T23:12:48.121Z
+status: degraded
+code: 504
+responseTime: 5142
+lastUpdated: 2024-04-28T03:43:25.677Z
 startTime: 2023-10-03T04:34:27.275Z
 generator: Upptime <https://github.com/upptime/upptime>
