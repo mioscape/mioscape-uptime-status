@@ -22,18 +22,19 @@
     "url": "https://blog.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ihya.dev.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "100.00%",
+    "status": "degraded",
+    "uptime": "98.53%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "98.52%",
-    "time": 893,
-    "timeDay": 215,
-    "timeWeek": 185,
-    "timeMonth": 198,
-    "timeYear": 893,
+    "uptimeYear": "98.53%",
+    "time": 900,
+    "timeDay": 2749,
+    "timeWeek": 504,
+    "timeMonth": 309,
+    "timeYear": 900,
     "dailyMinutesDown": {
+      "2024-06-04": 0,
       "2024-05-29": 104,
       "2024-05-15": 18,
       "2024-05-06": 21,
@@ -62,7 +63,7 @@
       "2023-11-29": 22,
       "2023-11-28": 52,
       "2023-11-14": 197,
-      "2023-11-13": 533
+      "2023-11-13": 515
     }
   },
   {
