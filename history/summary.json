@@ -25,13 +25,13 @@
     "status": "up",
     "uptime": "98.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.40%",
-    "uptimeMonth": "91.78%",
+    "uptimeWeek": "77.73%",
+    "uptimeMonth": "92.02%",
     "uptimeYear": "98.40%",
     "time": 867,
     "timeDay": 198,
-    "timeWeek": 478,
-    "timeMonth": 629,
+    "timeWeek": 476,
+    "timeMonth": 656,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2024-06-24": 797,
@@ -86,9 +86,9 @@
     "url": "https://status.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/status.ihya.dev.ico",
     "slug": "server-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,7 +97,9 @@
     "timeWeek": 856,
     "timeMonth": 994,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-29": 0
+    }
   },
   {
     "name": "ShitBin",
