@@ -22,12 +22,12 @@
     "url": "https://blog.ihya.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ihya.dev.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "98.46%",
+    "status": "down",
+    "uptime": "98.47%",
     "uptimeDay": "57.22%",
     "uptimeWeek": "93.89%",
     "uptimeMonth": "98.59%",
-    "uptimeYear": "98.46%",
+    "uptimeYear": "98.47%",
     "time": 859,
     "timeDay": 392,
     "timeWeek": 392,
@@ -61,7 +61,7 @@
       "2024-02-03": 1017,
       "2024-02-02": 372,
       "2024-01-29": 184,
-      "2024-01-28": 166
+      "2024-01-28": 137
     }
   },
   {
